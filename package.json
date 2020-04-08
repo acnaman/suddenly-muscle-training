@@ -1,6 +1,7 @@
 {
 	"name": "suddenly-muscle-training",
 	"displayName": "suddenly-muscle-training",
+	"publisher": "acnaman",
 	"description": "Suddenly play muscle training videos.",
 	"version": "0.0.1",
 	"engines": {
@@ -10,7 +11,7 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:suddenly-muscle-training.helloWorld"
+        "*"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
