@@ -4,7 +4,7 @@ This extension suddenly opens link for Muscle Training Video when you are writin
 
 **Enjoy Training!!!**
 
-<img src="readme1.gif">
+<img src="docimage/readme1.gif">
 
 ## Usage
 
