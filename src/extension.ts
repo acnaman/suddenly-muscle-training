@@ -56,7 +56,7 @@ export function activate(context: vscode.ExtensionContext) {
 	};
 
 	const MS_PER_MIN = 1000 * 60;
-	const intervalMinute = 0.1;
+	const intervalMinute = 30;
 
 	setInterval(printDate, MS_PER_MIN * intervalMinute);
 
