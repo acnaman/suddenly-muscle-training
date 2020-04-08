@@ -1,4 +1,4 @@
-# suddenly-muscle-training README
+# suddenly-muscle-training
 
 This extension suddenly opens link for Muscle Training Video when you are writing code. Tabs open randomly when you are writing the source code. Then click on the link in the tab and the muscle training video will play on your browser.
 
